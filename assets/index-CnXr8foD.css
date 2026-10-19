@@ -1,13 +1,13 @@
 @font-face {
   font-family: CustomOccidental;
-  src: url(./assets/Quicksand-VariableFont_wght-DE2wFU7n.ttf) format("truetype");
+  src: url(/Quicksand-VariableFont_wght-DE2wFU7n.ttf) format("truetype");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: CustomOriental;
-  src: url(./assets/IBMPlexSansJP-Light-CzGRIxcz.ttf) format("truetype");
+  src: url(/IBMPlexSansJP-Light-CzGRIxcz.ttf) format("truetype");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
